@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1000" viewBox="0 0 9000 6000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#0092DF" width="9000" height="6000"/>
+<path fill="none" stroke="white" stroke-width="1500" d="M0 6000l9000 -6000m-9000 0l4500 3000"/>
+<polygon id="Tw" fill="#FEF600" points="7270,4237 7870,4584 7870,5276 7270,5623 6670,5276 6670,4584 "/>
+<use xlink:href="#Tw" transform="translate(-650,-1120)"/>
+<use xlink:href="#Tw" transform="translate(650,-1120)"/>
+</svg>

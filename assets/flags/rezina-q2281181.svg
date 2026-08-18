@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="450" height="300" 
+ viewBox="0 0 450 300"
+ >
+  <rect x="0" y="0" width="450" height="300" fill="#FFFFFF" stroke="no"/>
+  <circle cx="225" cy="150" r="75" fill="#009240" stroke="no"/>
+  <path fill="#FFFF00"
+		stroke="no"
+        d="M220,115 H230 V135 H250 V145 H230 V165 H220 V145 H200 V135 H220 Z"/>
+ 
+  <path fill="#FFFFFF"
+		stroke="none"
+		d="M162.5,195 Q 175,188 187.5,195 T 212.5,195 237.5,195 262.5,195 287.5,195
+           V207
+           Q 275,200 262.5,207 T 237.5,207 212.5,207 187.5,207 162.5,207 Z" />
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="700"
+   height="400"
+   id="FlagOfLoja"
+   viewBox="0 0 28 16"
+   version="1.1"
+   sodipodi:docname="Bandera del Cantón Loja 2.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     width="700px"
+     inkscape:zoom="0.99713835"
+     inkscape:cx="359.52885"
+     inkscape:cy="219.6285"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10771"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid199"
+       spacingx="4"
+       spacingy="4"
+       originx="0"
+       originy="0"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <rect
+     width="28"
+     height="16"
+     fill="#bf0000"
+     id="rect2"
+     style="fill:#ce0f25;stroke-width:2"
+     x="0"
+     y="0" />
+  <rect
+     width="28"
+     height="8"
+     fill="#003380"
+     y="4"
+     id="rect4"
+     style="fill:#003893;stroke-width:2"
+     x="0" />
+  <rect
+     width="28"
+     height="4"
+     fill="#ff0"
+     y="6.0000005"
+     id="rect6"
+     style="fill:#fcd116;stroke-width:2"
+     x="0" />
+  <g
+     id="g10771"
+     transform="matrix(0.01131232,0,0,0.01131232,10.913343,4.8103684)">
+    <g
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g464"
+       transform="matrix(0.71817811,0,0,0.64412651,74.724993,-78.81955)">
+      <path
+         d="m 25.5,360.5 v 474.25 c 0,68.898 55.852,124.75 124.75,124.75 h 62.375 c 27.289,0 50.92,17.163 62.375,40 11.455,-22.837 35.086,-40 62.375,-40 h 62.375 c 68.898,0 124.75,-55.852 124.75,-124.75 V 360.5 Z"
+         fill="#ed1c24"
+         id="path460" />
+    </g>
+    <g
+       transform="matrix(1.2672085,-0.94417777,1.0537772,1.6901854,206.7985,196.3088)"
+       id="g6470-3-3-5-8-1-4-6-0-2-8-1-9"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="flag_Tokmak" width="215" height="215" stroke="yellow" stroke-width="4" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="blu" width="217" height="217" fill="blue" style="fill:#0091dd;stroke:#fdf200"/>
+ <rect id="grn" x="-2" width="108" height="217" fill="#0C0" style="fill:#01913d;stroke:#fdf200"/>
+ <rect id="red" x="-2" y="-2" width="219" height="52" fill="red" style="fill:#db2419;stroke:#fdf200"/>
+</svg>

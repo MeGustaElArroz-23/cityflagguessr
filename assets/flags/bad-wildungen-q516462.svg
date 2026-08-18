@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 1500" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="600" height="1500" fill="#000" />
+<rect x="300" y="0" width="300" height="1500" fill="#fcdd09" />
+<path d="m150 331.5-15.162-104.9-84.894 63.452 63.452-84.894-104.9-15.2 104.9-15.2-63.456-84.86 84.896 63.46 15.16-104.9 15.162 104.9 84.894-63.452-63.452 84.894 104.89 15.2-104.9 15.162 63.452 84.894-84.894-63.452z" fill="#fcdd09" stroke="#000"/>
+<g fill="none" stroke="#000" stroke-width="1">
+ <path d="m8.5 190h283"/>
+ <path d="m49.944 89.94 200.12 200.16"/>
+ <path d="m150 48.5v283"/>
+ <path d="m250.06 89.94-200.12 200.16"/>
+ <path d="m113.4,174.8 73.208,30.324z"/>
+ <path d="m134.84,153.4 30.324,73.208z"/>
+ <path d="m165.16,153.4 -30.324,73.208z"/>
+ <path d="m186.6,174.8 -73.208,30.324z"/>
+</g>
+</svg>

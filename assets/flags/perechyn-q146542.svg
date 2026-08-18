@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="300">
+<rect width="450" height="300" fill="#ffd500"/>
+<rect width="450" height="200" fill="#009739"/>
+<rect width="450" height="100" fill="#005bbb"/>
+<polygon points="62.5,150 125,87.5 187.5,150 125,212.5" fill="#fff"/>
+<rect width="8" height="8" x="70" y="146"/>
+<rect width="8" height="8" x="121" y="95"/>
+<rect width="8" height="8" x="172" y="146"/>
+<rect width="8" height="8" x="121" y="197"/>
+<path d="M119.5,106 h11
+v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v11
+h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-11
+v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-11
+h5.5 v-5.5 h5.5 v-5.5 h5.5 v-5.5 h5.5 v-5.5 h5.5 v-5.5 h5.5 v-5.5 h5.5 z" fill="#d40000"/>
+<path d="M119.5,122.5 h11
+v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v5.5 h5.5 v11
+h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-5.5 v5.5 h-11
+v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-5.5 h-5.5 v-11
+h5.5 v-5.5 h5.5 v-5.5 h5.5 v-5.5 h5.5 z" fill="#fff"/>
+<path d="M121,139 h8 v7 h7 v8 h-7 v7 h-8 v-7 h-7 v-8 h7 z" fill="#005bbb"/>
+</svg>

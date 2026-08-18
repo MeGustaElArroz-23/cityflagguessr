@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class="selected"/>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #42ab55;
+      }
+
+      .cls-2 {
+        fill: #2f58a4;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  
+  
+  
+<g class="currentLayer" style=""><title>Layer 1</title><rect class="cls-1" width="450" height="600" id="svg_1"/><rect class="cls-2" x="450" width="450" height="600" id="svg_2"/><g id="svg_3">
+    <polygon class="cls-3" points="590 307.5 606.996 338.772 645 343.787 617.5 368.129 623.992 402.5 590 386.272 556.008 402.5 562.5 368.129 535 343.787 573.004 338.772 590 307.5" id="svg_4"/>
+    <polygon class="cls-3" points="310 307.5 326.996 338.772 365 343.787 337.5 368.129 343.992 402.5 310 386.272 276.008 402.5 282.5 368.129 255 343.787 293.004 338.772 310 307.5" id="svg_5"/>
+    <polygon class="cls-3" points="450 197.5 466.996 228.772 505 233.787 477.5 258.129 483.992 292.5 450 276.272 416.008 292.5 422.5 258.129 395 233.787 433.004 228.772 450 197.5" id="svg_6"/>
+  </g></g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 9600 4800">
+	<title>Flag of London</title>
+	<defs>
+		<path id="L" d="m0-186a160 214 0 0 0 0 372 160 214 0 0 0 0-372z"/>
+	</defs>
+	<path fill="#fff" d="m0 0h9600v4800H0z"/>
+	<path fill="#d5d5d5" d="m1144 0v3440a248 248 0 0 0 248 248h1389c2361 0 3559 691 3867 1112H0V0zm5256 549 2128 3a432 432 0 0 1 432 432v2080h-2128a432 432 0 0 1-432-432z"/>
+	<g fill="#043">
+		<path d="m664 0v3776a424 424 0 0 0 424 424h2786c1087 0 2264 250 2590 600H0V0zm6328 2832c0 0 19-48 176-57 141-7 329-29 363-140 19-64 61-232 5-408 26-35 38-90 38-90l106 139 106-139c0 0 12 55 38 90-56 176-14 344 5 408 34 111 222 133 363 140 157 9 176 57 176 57z"/>
+		<g transform="translate(7680,1724)">
+			<g id="a">
+				<g id="b">
+					<use y="-258" xlink:href="#L"/>
+					<use transform="rotate (150,-61,-231)" xlink:href="#L"/>
+				</g>
+				<use y="-774" xlink:href="#L"/>
+				<use transform="rotate(45,858,-91)"  xlink:href="#L"/>
+				<use transform="rotate(-45,-858,-91)"  xlink:href="#L"/>
+			</g>
+			<use transform="rotate (60)" xlink:href="#a"/>
+			<use transform="rotate (120)" xlink:href="#a"/>
+			<use transform="rotate (-60)" xlink:href="#a"/>
+			<use transform="rotate (-120)" xlink:href="#a"/>
+			<use transform="rotate (-180)" xlink:href="#b"/>
+		</g>
+		<path d="m6290 3331h108c-5 208-5 351-2 546 106 4 206 7 304-12l-8 103h-402zm1715-17h102c0 0-17 563 6 624-37-6-82 10-131 27a198 216 0 1 1 28-390zm6 357c-30-32-66-42-99-42a111 134 0 0 0 0 269c39 0 98-9 98-65zm-1152 630a123 124 0 1 1-1-178l-20 25a91 92 0 1 0-1 130zm565 31v-241a6 6 0 0 1 11-4l149 174v-171h32v241a6 6 0 0 1-11 4l-149-174v171zm770-233c77-14 174 11 174 109 0 110-86 135-174 125zm32 204c57 1 110-16 110-95 0-62-52-83-110-80z"/>
+		<path id="O" d="m6740 3763a220 216 0 0 1 440 0 220 216 0 0 1-440 0zm92 0a128 136 0 0 0 256 0 128 136 0 0 0-256 0zm442 205c0 0 9-316-5-361 84-38 162-67 248-46 82 20 100 91 100 161l3 246h-97l5-225c3-126-82-124-159-89 0 0-10 261 3 314z"/>
+		<use x="1463" xlink:href="#O"/>
+		<path id="A" d="m7248 4332h-35l-36-80h-88l-36 80h-35l110-246a6 6 0 0 1 11 0zm-147-108h64l-32-71z"/>
+		<use x="770" xlink:href="#A"/>
+		<use x="1503" xlink:href="#A"/>
+	</g>
+</svg>

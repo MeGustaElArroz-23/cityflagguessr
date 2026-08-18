@@ -1,0 +1,2199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" enable-background="new" version="1.1" viewBox="0 0 3 3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<clipPath id="j">
+<path d="m14186300 5152250s192520 531420 469520 807850c276950 276430 478730 433880 662120 497520 183380 63600 243430 71380 468350 106740 224910 35370 538010 235520 538010 235520s-93220-443930-285140-653670c-191920-209780-342300-3.9e5 -783210-603570-440870-213570-539180-210470-748800-250180-209620-39660-320850-140210-320850-140210z"/>
+</clipPath>
+<clipPath id="i">
+<path d="m14186300 5152250s192520 531420 469520 807850c276950 276430 478730 433880 662120 497520 183380 63600 243430 71380 468350 106740 224910 35370 538010 235520 538010 235520s-93220-443930-285140-653670c-191920-209780-342300-3.9e5 -783210-603570-440870-213570-539180-210470-748800-250180-209620-39660-320850-140210-320850-140210z"/>
+</clipPath>
+<clipPath id="h">
+<path d="m17905000 7712850c168520 651560 60740 1647200-524010 2079400-361860 267500-703730 314770-1004210 391560-300430 76830-496090 173470-496090 173470s-54450-75370-20210-332640c34250-257270 476240-795050 889620-1200870 413430-405860 836590-748460 955830-881240 119200-132780 199070-229680 199070-229680z"/>
+</clipPath>
+<clipPath id="g">
+<path d="m17905000 7712850c168520 651560 60740 1647200-524010 2079400-361860 267500-703730 314770-1004210 391560-300430 76830-496090 173470-496090 173470s-54450-75370-20210-332640c34250-257270 476240-795050 889620-1200870 413430-405860 836590-748460 955830-881240 119200-132780 199070-229680 199070-229680z"/>
+</clipPath>
+<clipPath id="f">
+<path d="m13581500 896020s-73750 109400-60270 321510c13530 212190-380 450120-126300 653580-125920 203430-215530 317730-431820 471310-216340 153580-349200 298600-349200 298600s14650-73730-13140-307410c-27780-233680 38260-565710 187390-810950 149100-245230 300480-352700 451900-460220 151460-107550 341440-166420 341440-166420z"/>
+</clipPath>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<filter id="o" x="-.18114" y="-.18114" width="1.3623" height="1.3623">
+<feGaussianBlur stdDeviation=".32"/>
+</filter>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<clipPath id="k">
+<path d="m14186300 5152250s192520 531420 469520 807850c276950 276430 478730 433880 662120 497520 183380 63600 243430 71380 468350 106740 224910 35370 538010 235520 538010 235520s-93220-443930-285140-653670c-191920-209780-342300-3.9e5 -783210-603570-440870-213570-539180-210470-748800-250180-209620-39660-320850-140210-320850-140210z"/>
+</clipPath>
+<clipPath id="l">
+<path d="m14186300 5152250s192520 531420 469520 807850c276950 276430 478730 433880 662120 497520 183380 63600 243430 71380 468350 106740 224910 35370 538010 235520 538010 235520s-93220-443930-285140-653670c-191920-209780-342300-3.9e5 -783210-603570-440870-213570-539180-210470-748800-250180-209620-39660-320850-140210-320850-140210z"/>
+</clipPath>
+<clipPath id="m">
+<path d="m17905000 7712850c168520 651560 60740 1647200-524010 2079400-361860 267500-703730 314770-1004210 391560-300430 76830-496090 173470-496090 173470s-54450-75370-20210-332640c34250-257270 476240-795050 889620-1200870 413430-405860 836590-748460 955830-881240 119200-132780 199070-229680 199070-229680z"/>
+</clipPath>
+<clipPath id="n">
+<path d="m17905000 7712850c168520 651560 60740 1647200-524010 2079400-361860 267500-703730 314770-1004210 391560-300430 76830-496090 173470-496090 173470s-54450-75370-20210-332640c34250-257270 476240-795050 889620-1200870 413430-405860 836590-748460 955830-881240 119200-132780 199070-229680 199070-229680z"/>
+</clipPath>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#k)}
+    .fil4 {fill:url(#l)}
+    .fil1 {fill:url(#m)}
+    .fil3 {fill:url(#n)}
+    .fil0 {fill:url(#o)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style>.cls-1 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #231f20;
+      }
+
+      .cls-5 {
+        fill: #ed1e24;
+      }
+
+      .cls-6 {
+        fill: #feda00;
+      }
+
+      .cls-7 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.8px;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css">.Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }</style>
+<style type="text/css"><![CDATA[
+    .str0 {stroke:#161514;stroke-width:9.19998}
+    .str1 {stroke:#1F1A17;stroke-width:16.3544}
+    .str2 {stroke:#161514;stroke-width:16.3544}
+    .fil3 {fill:none}
+    .fil0 {fill:#DA251D}
+    .fil1 {fill:white}
+    .fil4 {fill:#1F1A17;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .str0 {stroke:#161514;stroke-width:9.19998}
+    .str1 {stroke:#1F1A17;stroke-width:16.3544}
+    .str2 {stroke:#161514;stroke-width:16.3544}
+    .fil3 {fill:none}
+    .fil0 {fill:#DA251D}
+    .fil1 {fill:white}
+    .fil4 {fill:#1F1A17;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+  .Rand1 { stroke: #202020; stroke-width:15; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .SchwarzRund { stroke: #000000; stroke-width:120; stroke-linejoin:round; }
+  .Schwarz { fill: #000000; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  ]]></style>
+<style type="text/css">.str1 {stroke:#2B2828;stroke-width:5}
+    .str0 {stroke:#454646;stroke-width:50}
+    .fil5 {fill:#95979A}
+    .fil2 {fill:#131516;fill-opacity:0.568627}
+    .fil6 {fill:url(#j)}
+    .fil4 {fill:url(#i)}
+    .fil1 {fill:url(#h)}
+    .fil3 {fill:url(#g)}
+    .fil0 {fill:url(#f)}</style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+<style type="text/css"><![CDATA[
+    .fil2 {fill:#4F9E2C}
+    .fil1 {fill:#DE0000}
+    .fil4 {fill:#F8C300}
+    .fil0 {fill:white}
+    .fil6 {fill:black;fill-rule:nonzero}
+    .fil3 {fill:#DE0000;fill-rule:nonzero}
+    .fil5 {fill:white;fill-rule:nonzero}
+   ]]></style>
+</defs>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#E20909;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st2{fill:#1561A3;stroke:#000000;stroke-width:2;}
+	.st3{fill:#2B5DF2;stroke:#000000;stroke-width:2;}
+	.st4{stroke:#FFFFFF;stroke-width:3;}
+	.st5{fill:none;stroke:#000000;stroke-width:2;}
+	.st6{fill:url(#path2346_1_);}
+	.st7{fill:none;stroke:#000000;stroke-width:3;}
+	.st8{display:none;opacity:0.56;}
+	.st9{fill:none;}
+	.st10{display:none;enable-background:new    ;}
+	.st11{display:inline;}
+	.st12{display:none;}
+	.st13{font-family:'Prompt-Light';}
+	.st14{font-size:390px;}
+	.st15{letter-spacing:19;}
+	.st16{display:inline;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{clip-path:url(#SVGID_00000042710483373387831750000013592744223328328346_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#CF0011;}
+	.st3{fill:#040405;}
+	.st4{fill:#161615;}
+	.st5{fill:#D90016;}
+	.st6{fill:#00852D;}
+	.st7{fill:#FFE200;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style/>
+<style/>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F7E239;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;stroke-miterlimit:5.9;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;stroke-linejoin:round;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;stroke:#EFD905;stroke-linecap:round;}
+	.st6{fill:none;stroke:#F7E239;stroke-linecap:round;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#B10D16;stroke:#000000;}
+	.st8{fill:none;stroke:#F7E239;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#FFE739;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B30F18;stroke:#000000;stroke-width:0.8192;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill:none;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFE739;stroke-width:0.8192;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F7E239;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;stroke-miterlimit:5.9;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;stroke:#F7E239;stroke-linejoin:round;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;stroke:#EFD905;stroke-linecap:round;}
+	.st6{fill:none;stroke:#F7E239;stroke-linecap:round;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#B10D16;stroke:#000000;}
+	.st8{fill:none;stroke:#F7E239;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;stroke:#000000;stroke-width:3.02;stroke-miterlimit:11.47;}
+	.st1{fill:#FFD600;stroke:#000000;stroke-width:3.02;stroke-miterlimit:11.47;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.22;stroke-miterlimit:11.47;}
+	.st3{stroke:#000000;stroke-width:0.22;stroke-miterlimit:11.47;}
+	.st4{fill:#E40520;stroke:#E40520;stroke-width:0.22;stroke-miterlimit:11.47;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;stroke:#000000;stroke-width:3.02;stroke-miterlimit:11.47;}
+	.st1{fill:#FFD600;stroke:#000000;stroke-width:3.02;stroke-miterlimit:11.47;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.22;stroke-miterlimit:11.47;}
+	.st3{stroke:#000000;stroke-width:0.22;stroke-miterlimit:11.47;}
+	.st4{fill:#E40520;stroke:#E40520;stroke-width:0.22;stroke-miterlimit:11.47;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#010101;stroke:#FFFFFF;stroke-width:4.2166;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E01F26;stroke:#010101;stroke-width:4.2166;}
+	.st3{fill:none;stroke:#010101;stroke-width:4.2166;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}</style>
+<style/>
+<style/>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.2059;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E20909;stroke:#000000;stroke-width:3.5612;stroke-linecap:square;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.901;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#2B5DF2;stroke:#000000;stroke-linecap:square;}
+	.st6{fill:#5AB532;stroke:#000000;stroke-width:3;}
+	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:url(#path2346_1_);}
+	.st9{fill:none;stroke:#000000;stroke-width:3;}
+	.st10{clip-path:url(#SVGID_2_);fill:#2E2E2E;}</style>
+<style/>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.2059;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E20909;stroke:#000000;stroke-width:3.5612;stroke-linecap:square;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.901;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#2B5DF2;stroke:#000000;stroke-linecap:square;}
+	.st6{fill:#5AB532;stroke:#000000;stroke-width:3;}
+	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:url(#path2346_1_);}
+	.st9{fill:none;stroke:#000000;stroke-width:3;}
+	.st10{clip-path:url(#SVGID_2_);fill:#2E2E2E;}</style>
+<style/>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.2059;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E20909;stroke:#000000;stroke-width:3.5612;stroke-linecap:square;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#5AB532;stroke:#000000;stroke-width:3.901;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#2B5DF2;stroke:#000000;stroke-linecap:square;}
+	.st6{fill:#5AB532;stroke:#000000;stroke-width:3;}
+	.st7{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:url(#path2346_1_);}
+	.st9{fill:none;stroke:#000000;stroke-width:3;}
+	.st10{clip-path:url(#SVGID_2_);fill:#2E2E2E;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<style type="text/css">.st0{fill:#1D1D1B;}
+	.st1{fill:#0085CC;}
+	.st2{fill:#FAB800;}
+	.st3{fill:#FEFEFE;}
+	.st4{fill:#F9B800;}</style>
+<g transform="matrix(.0063281 0 0 .0063288 1.9761 .29383)" stroke-width="1.0001">
+<g transform="matrix(1 0 0 1 -.0084882 0)">
+<g transform="translate(517.6,-32.527)" stroke-width=".59256">
+<path d="m-829.87-13.97 0.0251 474.1 474.02-0.076 1.4e-4 -474.03z" fill="#094" stroke-width=".59256"/>
+</g>
+<g transform="matrix(.73679 0 0 .65892 -313.37 -47.485)" stroke-width=".85044">
+<path d="m1.493 1.4994v182.23l450.37 537.19 193.01-0.0245v-215.8l-428.71-503.59z" fill="#fff" fill-rule="evenodd" stroke-width=".85044"/>
+</g>
+</g>
+<g transform="matrix(.73679 0 0 .65892 -313.37 -47.485)">
+<path d="m1.493 1.4994v182.23l450.34 537.18 193-0.0245v-215.8l-428.68-503.58z" fill="#fff" fill-rule="evenodd" stroke-width=".85044"/>
+<g transform="matrix(4.047,-2.4419e-5,1.9539e-5,4.047,-2564.5,-2286.3)" stroke-width=".85044">
+<path d="m773 710-61-82-23 19 72 72c8 7 17-1 12-9z" fill-rule="evenodd" stroke="#000"/>
+<path d="m760.71 691.85c6-7-3.5986-14.049-8.7098-10.848-8.2767 5.1824-12.321 14.848-19.321 10.848-4 5 3.7195 14.653 10.321 9.1517 6-5 13.153-15.329 17.71-9.1517z" fill-rule="evenodd" stroke="#fff"/>
+<path d="m705 646 21 24" fill="none" stroke="#fff"/>
+<path d="m696 646 36 39" fill="none" stroke="#fff"/>
+<path d="m734.61 656.61c5-7-3.5018-13.813-8.613-10.613-8.2767 5.1824-16.208 18.961-24.208 14.961-4 5 3.6067 14.54 10.208 9.039 6-5 18.968-18.923 22.613-13.387z" fill-rule="evenodd" stroke="#fff"/>
+<path d="m702 634c15.764 2 25-31-2-41 6 7 8 12 4 20-4 7-9 13-2 21 4-7 3-14 2-21 1 7 2 14-2 21-7-8-2-14 2-21-1-9-5.3268-14.9-10-19-4.7736-4.188-11-4-18-12-5 15 14 12 16 31 1 8 1 11 3 15-2-4-2-7-3-15-11-17-24-9-31-29-10 21 7 18 17 38 11 0 18 6 24 12-6-6-13-12-24-12 2 4 5 9 10 12-5-3-8-8-10-12-11 0-16.33-20.982-28-11.339 16 4.3388 8 30.339 38 23.339 3-2 9-2 14 0-5-2-11-2-14 0-9 6-17.745 6.567-27-2 3 14 18 22 27 16 9.7033-6.4689 15.333-9.1266 22-8-1.4894-2.7849-5-5-8-6z" fill="#f00000" fill-rule="evenodd" stroke="#000"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="675" height="450" viewBox="0 0 675 450">
+<desc>Flag of Brno-Žebětín (CZ)</desc>
+<rect height="450" width="675" fill="white"/>
+<rect height="225" width="675" fill="#769844"/>
+<g id="hrozen" transform="translate(175,0)" style="stroke-width:2px; stroke:black; fill:gold">
+	<path d="M 298.5,83.7 C 298.5,45 295,15 275,15 C 264,15 256,23 256.4,31.4 C 256.8,40.4 262.5,44.6 269,44.6 C 281,44.6 283,28.6 275.5,28.6 C 273.6,28.6 271,33.5 269,33.5 C 267,33.6 265,33.5 265,30 C 265,26.5 270,23 275,23 C 290,23 292,52.5 292,84"/>
+	<path d="M 298.5,84 C 298.5,62 308,32 329.5,32 C 344,32 345.9,46.1 351.9,46.3 C 355.6,46.4 357.4,45.5 357.5,39.4 C 357.7,27.8 341,22 329,22 C 305,22 292,52.5 292,84"/>
+	<path d="M 348,44 C 346,40.5 347,33 351.5,33 C 355,33 357.5,35.5 357.5,39"/>
+	<circle r="10.4" cx="272.1" cy="96.6"/>
+	<circle r="9" cx="294.5" cy="99.1"/>
+	<circle r="9.5" cx="271.6" cy="118"/>
+	<circle r="10.9" cx="292.5" cy="121"/>
+	<circle r="9" cx="274.6" cy="143.4"/>
+	<circle r="9.5" cx="295" cy="145.4"/>
+	<circle r="11.4" cx="277.3" cy="67"/>
+	<circle r="10.9" cx="300.9" cy="67.3"/>
+	<circle r="10.9" cx="329" cy="81.2"/>
+	<circle r="9.2" cx="263.1" cy="83.7"/>
+	<circle r="9.9" cx="286" cy="86.2"/>
+	<circle r="9.9" cx="307.9" cy="88.2"/>
+	<circle r="10.4" cx="325" cy="103"/>
+	<circle r="9.4" cx="244.7" cy="92.1"/>
+	<circle r="10.4" cx="259.7" cy="106"/>
+	<circle r="9.9" cx="281" cy="109.5"/>
+	<circle r="9.9" cx="304.9" cy="114"/>
+	<circle r="10.4" cx="263.1" cy="128"/>
+	<circle r="9.9" cx="285" cy="133.9"/>
+	<circle r="10.4" cx="306.4" cy="137.4"/>
+	<circle r="9" cx="264.1" cy="148.8"/>
+	<circle r="9.9" cx="286.5" cy="157.8"/>
+	<circle r="9.9" cx="307" cy="159.8"/>
+	<circle r="10.4" cx="295" cy="178.7"/>
+</g>
+<path id="radlice" transform="translate(80,0)" d="M 57.5,130.5 L 154.5,19.8 L 154.5,190 L 104,190 L 104,157.5 L 57.5,130.5 L 57.5,130.5 z" style="stroke-width:2px; stroke:black; fill:white"/>
+</svg>

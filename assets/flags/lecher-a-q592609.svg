@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Capa 1" width="900" height="600"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class="selected"/>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00237d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ffcd00;
+      }
+
+      .cls-4 {
+        fill: #5f370a;
+      }
+    </style>
+  </defs>
+  
+  
+<g class="currentLayer" style=""><title>Layer 1</title><g id="svg_1">
+    <rect class="cls-1" width="900" height="150" id="svg_2"/>
+    <rect class="cls-2" y="150" width="900" height="300" id="svg_3"/>
+    <rect class="cls-1" y="450" width="900" height="150" id="svg_4"/>
+  </g><g id="svg_5">
+    <path class="cls-3" d="M222.5,410c0-122.9,101.9-222.5,227.5-222.5S677.5,287.1,677.5,410" id="svg_6"/>
+    <g id="svg_7">
+      <path class="cls-4" d="M382.1,313.6H517.9v45H382.1Z" id="svg_8"/>
+      <path class="cls-4" d="M323.3,349.6h253.4v36H323.3Z" id="svg_9"/>
+      <path class="cls-4" d="M224.8,376.5H677.4v36H224.8Z" id="svg_10"/>
+      <path class="cls-4" d="M640.1,412.5a36.20057,36.20057,0,0,1,72.4,0" id="svg_11"/>
+      <path class="cls-4" d="M187.5,412.5a36.20055,36.20055,0,0,1,72.4,0" id="svg_12"/>
+      <path class="cls-4" d="M287.1,380.9c0-17.3,16.2-31.3,36.2-31.3s36.2,14,36.2,31.3" id="svg_13"/>
+      <path class="cls-4" d="M540.5,380.9c0-17.3,16.2-31.3,36.2-31.3s36.2,14,36.2,31.3" id="svg_14"/>
+      <path class="cls-4" d="M499.8,356.1c0-23.5,8.1-42.5,18.1-42.5s18.1,19,18.1,42.5" id="svg_15"/>
+      <path class="cls-4" d="M364,356.1c0-23.5,8.1-42.5,18.1-42.5s18.1,19,18.1,42.5" id="svg_16"/>
+    </g>
+  </g></g></svg>

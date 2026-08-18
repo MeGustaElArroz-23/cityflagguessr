@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Baba bandera.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient22658">
+      <stop
+         id="stop22660"
+         offset="0"
+         style="stop-color:#6c2323;stop-opacity:1;" />
+      <stop
+         style="stop-color:#a10d0d;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop22662" />
+      <stop
+         id="stop22664"
+         offset="1"
+         style="stop-color:#9d7977;stop-opacity:0.52156866;" />
+      <stop
+         id="stop22666"
+         offset="1"
+         style="stop-color:#e02727;stop-opacity:0.54509807;" />
+    </linearGradient>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.6200602"
+     inkscape:cx="392.88663"
+     inkscape:cy="237.95412"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <rect
+     width="960"
+     height="560"
+     fill="#FFF"
+     id="rect4"
+     style="fill:#003893;stroke-width:0.99778;fill-opacity:1.0"
+     x="0"
+     y="0" />
+  <path
+     d="M 480.00992,138.15611 729.72387,282.54122 480.00992,426.92633 230.29597,282.54122 Z"
+     fill="none"
+     stroke="#C00"
+     stroke-width="93.7236"
+     id="path6"
+     style="fill:#ce1126;stroke:#ce1126;stroke-opacity:1;fill-opacity:1" />
+</svg>

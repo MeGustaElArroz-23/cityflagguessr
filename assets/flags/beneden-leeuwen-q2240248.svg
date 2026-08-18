@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-180 -73 260 146" fill="#fabb18">
+<circle fill="#fff" r="109"/>
+<use href="#c" x="76" fill="#0170ba"/>
+<use href="#c" x="37" fill="#5bae47"/>
+<path id="c" d="M-180,0l73-73h-112v146h112"/>
+<g id="h">
+<path d="M0-24v37h9q3,0 3-3v-46M32,6l-11-11v18q0,5-5,9"/>
+<path id="q" d="M0,38v20l10-10M38,0h20l-10,10M32,6l5,5q5,5 5,12v18h-18q-7,0-12-5l-5-5"/>
+<use href="#q" transform="scale(-1)"/>
+</g>
+<use href="#h" transform="scale(-1,1)"/>
+</svg>

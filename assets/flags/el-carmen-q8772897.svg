@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Flag of El Carmen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2828"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.562706"
+     inkscape:cx="408.58613"
+     inkscape:cy="263.32528"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <rect
+       style="fill:#fcd116;fill-opacity:1;stroke:none"
+       id="rect2816"
+       width="1000"
+       height="166.666"
+       x="0"
+       y="552.36218" />
+    <rect
+       style="fill:#ce0f25;fill-opacity:1;stroke:none"
+       id="rect2818"
+       width="1000"
+       height="166.666"
+       x="0"
+       y="719.03015" />
+    <rect
+       style="fill:#008f4c;fill-opacity:1;stroke:none"
+       id="rect2816-1"
+       width="1000"
+       height="166.666"
+       x="0"
+       y="885.69617" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 0,552.36218 400,250 L 0,1052.3622"
+       id="path2836"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#003893;fill-opacity:1;stroke:none"
+       id="path8956"
+       sodipodi:sides="5"
+       sodipodi:cx="46.774193"
+       sodipodi:cy="187.09677"
+       sodipodi:r1="60.003468"
+       sodipodi:r2="22.501301"
+       sodipodi:arg1="0.93804749"
+       sodipodi:arg2="1.566366"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 82.258063,235.48387 -35.384182,-25.88602 -35.153432,26.19852 13.68475,-41.65157 -35.779282,-25.33712 43.841824,0.14393 13.040619,-41.85772 13.410987,41.74053 43.838823,-0.53238 -35.553373,25.65314 z"
+       transform="matrix(1.1236963,0,0,1.1672745,89.563568,590.68869)" />
+  </g>
+</svg>

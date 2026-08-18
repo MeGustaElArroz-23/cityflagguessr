@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="399.89999"
+   height="399.79999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="rauma.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f6f3f1"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="87.544413"
+     inkscape:cy="146.74522"
+     inkscape:document-units="px"
+     inkscape:current-layer="g8235"
+     showgrid="false"
+     showborder="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="-0.1"
+     fit-margin-bottom="-0.2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-532.77875,-278.85736)">
+    <g
+       id="g8235">
+      <rect
+         y="278.85736"
+         x="532.77875"
+         height="400"
+         width="400"
+         id="rect8105"
+         style="color:#000000;fill:#006cb7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path4923-1"
+         d="m 707.80214,278.85736 0,174.9922 -175.02339,0 0,49.98441 175.02339,0 0,175.02339 49.98441,0 0,-175.02339 174.9922,0 0,-49.98441 -174.9922,0 0,-174.9922 -49.98441,0 z"
+         style="fill:#ffc20e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cczzccczzczccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5085-5"
+         d="m 615.2215,416.23706 21.40466,-21.70939 c 0,0 -2.7511,-0.0475 -9.74363,0 -6.99254,0.0475 -9.86325,-3.79842 -9.88215,-12.95619 -0.0189,-9.15776 -0.17639,-38.82002 -0.17639,-38.82002 l 5.49425,-5.72318 7.73116,7.67882 c -3.16609,3.4045 -6.19574,8.45121 -2.86627,13.71557 3.32946,5.26438 10.1523,6.4239 14.01886,2.95533 3.86655,-3.46859 13.16605,-12.77919 13.16605,-12.77919 -5.09559,0.7304 -10.34729,-1.35485 -12.76756,-5.4942 -2.42027,-4.13935 -1.18763,-8.5018 2.12246,-12.14289 l -13.85008,-14.30793 -14.53686,14.30793 -14.99471,-14.53686 -14.19348,14.53686 14.07902,14.4224 0.1145,40.86345 -7.66905,7.78351 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffc20e;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <use
+         height="628.45422"
+         width="359.02432"
+         transform="translate(225.04687,0)"
+         id="use8174"
+         xlink:href="#path5085-5"
+         y="0"
+         x="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path5085-5"
+         id="use8176"
+         transform="translate(225.04687,225.04687)"
+         width="359.02432"
+         height="628.45422" />
+      <use
+         height="628.45422"
+         width="359.02432"
+         transform="translate(0,225.04687)"
+         id="use8178"
+         xlink:href="#path5085-5"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

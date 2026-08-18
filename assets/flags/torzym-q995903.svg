@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="1440"
+   height="900"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       markerUnits="strokeWidth"
+       refX="0"
+       refY="5"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto"
+       viewBox="0 0 10 10"
+       id="ArrowEnd">
+      <path
+         d="M 0,0 L 10,5 L 0,10 L 0,0 z "
+         id="path7" />
+    </marker>
+    <marker
+       markerUnits="strokeWidth"
+       refX="10"
+       refY="5"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto"
+       viewBox="0 0 10 10"
+       id="ArrowStart">
+      <path
+         d="M 10,0 L 0,5 L 10,10 L 10,0 z "
+         id="path10" />
+    </marker>
+  </defs>
+  <rect
+     width="1440"
+     height="450"
+     x="0"
+     y="0"
+     style="opacity:1;fill:#0380ea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2179" />
+  <rect
+     width="1440"
+     height="450"
+     x="0"
+     y="450"
+     style="opacity:1;fill:#148a54;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect3174" />
+  <g
+     transform="matrix(0.5096083,-0.1365491,0.1365493,0.5096087,376.25439,170.08904)"
+     id="g2188">
+    <path
+       d="M 1154.043,45.656497 L 1120.3112,107.55885 L 1041.5429,101.9065 L 1086.5794,158.1565 L 1041.5429,214.4065 L 1120.3112,208.75415 L 1154.043,270.6565 L 1187.7747,208.75415 L 1266.543,214.4065 L 1221.5065,158.1565 L 1266.543,101.9065 L 1187.7747,107.55885 L 1154.043,45.656497 z "
+       style="fill:#222222;fill-rule:evenodd;stroke:none"
+       id="path2178" />
+    <path
+       d="M 1154.0532,256.0005 L 1183.3987,202.2018 L 1251.8775,207.08835 L 1212.753,158.17911 L 1251.8775,109.26695 L 1183.3987,114.15642 L 1154.0532,60.357713 L 1124.7105,114.15642 L 1056.232,109.26695 L 1095.3533,158.17911 L 1056.232,207.08835 L 1124.7105,202.2018 L 1154.0532,256.0005 z "
+       style="fill:#fbf608;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path2172" />
+  </g>
+  <g
+     transform="matrix(0.5096083,-0.1365491,0.1365493,0.5096087,291.47074,361.67762)"
+     id="g2180">
+    <path
+       d="M 1591.1887,45.656497 L 1557.4569,107.55885 L 1478.6886,101.9065 L 1523.7251,158.1565 L 1478.6886,214.4065 L 1557.4569,208.75415 L 1591.1887,270.6565 L 1624.9205,208.75415 L 1703.6888,214.4065 L 1658.7435,158.1565 L 1703.6888,101.9065 L 1624.9205,107.55885 L 1591.1887,45.656497 z "
+       style="fill:#222222;fill-rule:evenodd;stroke:none"
+       id="path2176" />
+    <path
+       d="M 1591.2113,256.0005 L 1620.5569,202.2018 L 1689.0328,207.08835 L 1649.8995,158.17911 L 1689.0328,109.26695 L 1620.5569,114.15642 L 1591.2113,60.357713 L 1561.8658,114.15642 L 1493.3899,109.26695 L 1532.5114,158.17911 L 1493.3899,207.08835 L 1561.8658,202.2018 L 1591.2113,256.0005 z "
+       style="fill:#fbf608;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path2170" />
+  </g>
+  <g
+     transform="matrix(0.5096083,-0.1365491,0.1365493,0.5096087,155.27714,293.94241)"
+     id="g2184">
+    <g
+       transform="translate(0,500.0005)"
+       id="g2192">
+      <path
+         d="M 1995.2409,45.656497 L 1961.5091,107.55885 L 1882.7408,101.9065 L 1927.7773,158.1565 L 1882.7408,214.4065 L 1961.5091,208.75415 L 1995.2409,270.6565 L 2028.9726,208.75415 L 2107.7409,214.4065 L 2062.7044,158.1565 L 2107.7409,101.9065 L 2028.9726,107.55885 L 1995.2409,45.656497 z "
+         style="fill:#222222;fill-rule:evenodd;stroke:none"
+         id="path14" />
+      <path
+         d="M 1995.2401,256.0005 L 2024.5857,202.2018 L 2093.0616,207.08835 L 2053.9283,158.17911 L 2093.0616,109.26695 L 2024.5857,114.15642 L 1995.2401,60.357713 L 1965.8975,114.15642 L 1897.4187,109.26695 L 1936.5403,158.17911 L 1897.4187,207.08835 L 1965.8975,202.2018 L 1995.2401,256.0005"
+         style="fill:#fbf608;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path18" />
+    </g>
+  </g>
+</svg>

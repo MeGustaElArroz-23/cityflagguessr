@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 1800 1200" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect fill="#FFF000" width="1800" height="1200"/>
+ <path style="fill:#00923F;stroke:#1F1A17;stroke-width:4;stroke-linejoin:bevel" d="M384 208c2,-14 4,-24 5,-31 2,-20 9,-40 26,-55 23,-22 35,-28 43,-59 11,15 24,25 40,30 -64,32 -94,70 -89,114z"/>
+<g id="Tw">
+<circle cx="400" cy="574" r="48"/>
+<circle fill="#00923F" cx="400" cy="574" r="45"/>
+</g>
+<g id="Tw2">
+<use xlink:href="#Tw" transform="translate(-46.5 -81)"/>
+<use xlink:href="#Tw" transform="translate(46.5 -81)"/>
+</g>
+<use xlink:href="#Tw2" transform="translate(-93 -162)"/>
+<use xlink:href="#Tw2" transform="translate(93 -162)"/>
+<g id="Tw3">
+<use xlink:href="#Tw" transform="translate(0 -324)"/>
+<use xlink:href="#Tw" transform="translate(93 -324)"/>
+<use xlink:href="#Tw" transform="translate(-93 -324)"/>
+</g>
+<use xlink:href="#Tw3" transform="translate(0 162)"/>
+<path stroke="#007CC3" stroke-width="300" d="M0 1200 1800 0"/>
+</svg>

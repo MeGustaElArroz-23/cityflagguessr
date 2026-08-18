@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360"
+   height="360"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="CHE Luven Flag.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         id="stop2895"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.3137255;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25098041;"
+         offset="0.19"
+         id="stop2897" />
+      <stop
+         id="stop2901"
+         offset="0.60000002"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;" />
+      <stop
+         id="stop2899"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.1254902;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         id="stop2965"
+         offset="0"
+         style="stop-color:white;stop-opacity:0;" />
+      <stop
+         id="stop2959"
+         offset="1"
+         style="stop-color:black;stop-opacity:0.64583331;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="2.8740845"
+     inkscape:cx="124.4194"
+     inkscape:cy="223.13605"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <path
+     id="path845-2"
+     d="M -0.44435619,-0.02129643 V 360.0094 L 360.40464,359.997 V -0.02129643 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#ed1c24;fill-opacity:1;fill-rule:evenodd;stroke-width:0.99998724"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 36.380871,301.61292 H 165.17575 l 16.09759,-16.41227 V 71.850088 H 36.382644 Z"
+     class="SchwarzRund"
+     id="buchu-1"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 197.37448,301.61292 H 326.16936 V 71.850088 H 181.27334 V 285.20065 Z"
+     class="SchwarzRund"
+     id="buchu-2"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 52.48023,279.72928 36.380871,301.61292 H 165.17575 l 16.09759,-16.41227 -16.09759,-5.47137 z"
+     class="Gold Rand1"
+     id="buchs-1"
+     style="fill:#fddd04;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 310.06999,279.72928 H 197.37448 l -16.09936,5.47137 16.09758,16.41227 h 128.79666 z"
+     class="Gold Rand1"
+     id="buchs-2"
+     style="fill:#fddd04;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 326.16936,71.850088 310.06999,49.968259 V 279.72928 l 16.09937,21.88364 z"
+     class="Gold Rand1"
+     id="buchs-3"
+     style="fill:#fddd04;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 36.380871,71.850088 V 301.61292 L 52.478458,279.72928 V 49.968259 Z"
+     class="Gold Rand1"
+     id="buchs-4"
+     style="fill:#fddd04;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 52.48023,279.72928 h 112.69552 l 16.09759,5.47137 V 55.43781 L 165.17575,49.968259 H 52.48023 Z"
+     class="Silber Rand1"
+     id="bucho-1"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#202020;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 181.27512,285.20065 16.09758,-5.47137 H 310.06999 V 49.968259 H 197.37448 l -16.09936,5.469551 z"
+     class="Silber Rand1"
+     id="bucho-2"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none" />
+  <text
+     transform="scale(0.99044536,1.0096468)"
+     id="text845"
+     font-size="2400"
+     y="212.03748"
+     x="118.00436"
+     class="Schwarz"
+     style="font-size:144.48629761px;font-family:Times, Symbol;text-anchor:middle;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.66666877;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10">Α</text>
+  <text
+     transform="scale(0.99044536,1.0096468)"
+     id="text847"
+     font-size="2400"
+     y="212.03748"
+     x="248.04308"
+     class="Schwarz"
+     style="font-size:144.48629761px;font-family:Times, Symbol;text-anchor:middle;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.66666877;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10">Ω</text>
+</svg>

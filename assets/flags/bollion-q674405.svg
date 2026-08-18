@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="750"
+   height="750.00055"
+   id="svg7180"
+   sodipodi:docname="CHE Bollion Flag.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.31466644"
+     inkscape:cx="-20.657069"
+     inkscape:cy="375.00027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7180" />
+  <defs
+     id="defs7183" />
+  <rect
+     width="749.9953"
+     height="749.9953"
+     x="0"
+     y="0.0052659377"
+     style="opacity:1;fill:#f00000;fill-opacity:1;stroke:none;stroke-width:0.19897179;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7193" />
+  <g
+     transform="translate(-24.986718,-17.841514)"
+     id="g10201">
+    <path
+       d="M 182.90813,49.868971 L 158.47063,136.68147 L 71.033126,114.61897 L 134.00188,179.18147 L 71.158126,243.86897 L 158.56438,221.65022 L 183.15813,308.40022 L 207.59563,221.58772 L 295.06438,243.65022 L 232.09563,179.08772 L 294.93938,114.40022 L 207.53313,136.65022 L 182.90813,49.868971 z M 183.03313,143.65022 C 202.62026,143.65022 218.53313,159.56311 218.53313,179.15022 C 218.53313,198.73733 202.62024,214.61897 183.03313,214.61897 C 163.44603,214.61897 147.56438,198.73733 147.56438,179.15022 C 147.56438,159.56311 163.44602,143.65022 183.03313,143.65022 z "
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path9136" />
+    <use
+       transform="translate(216.9356,213.70982)"
+       id="use10197"
+       x="0"
+       y="0"
+       width="750"
+       height="750.00055"
+       xlink:href="#path9136" />
+    <use
+       transform="translate(433.87123,427.41967)"
+       id="use10199"
+       x="0"
+       y="0"
+       width="750"
+       height="750.00055"
+       xlink:href="#path9136" />
+  </g>
+</svg>

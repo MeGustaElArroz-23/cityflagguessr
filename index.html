@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#09121d">
+  <title>CityFlagGuessr — Find the flag</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="overrides.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="brand-button" id="brand-home" aria-label="Return to home">
+        <span class="brand-mark">◎</span><span>CityFlag<span class="brand-accent">Guessr</span></span>
+      </button>
+      <div class="topbar-meta"><span class="live-dot"></span><span id="mode-label">READY TO EXPLORE</span></div>
+      <button class="icon-button" id="credits-open" aria-label="Open credits">?</button>
+    </header>
+
+    <main>
+      <section class="screen active" id="home-screen">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <h1>See the flag,<br><span>Find the city.</span></h1>
+            <p class="hero-lede">A world tour of municipal flags. Study the colours and symbols, trust your instincts, and drop your pin.</p>
+            <div class="settings-card">
+              <div class="settings-heading"><span>GAME SETTINGS</span><span class="settings-line"></span></div>
+              <div class="setting-row">
+                <label for="round-count">ROUNDS <span>How many flags?</span></label>
+                <div class="stepper"><button data-step="round-count" data-change="-1">−</button><output id="round-count-value">8</output><button data-step="round-count" data-change="1">+</button></div>
+                <input id="round-count" type="range" min="1" max="15" value="8" aria-label="Number of rounds">
+              </div>
+              <div class="setting-row">
+                <label for="round-time">TIME LIMIT <span>Per round</span></label>
+                <div class="stepper"><button data-step="round-time" data-change="-1">−</button><output id="round-time-value">30s</output><button data-step="round-time" data-change="1">+</button></div>
+                <input id="round-time" type="range" min="5" max="60" step="5" value="30" aria-label="Seconds per round">
+              </div>
+              <button class="primary-button" id="start-game">START EXPEDITION <span>→</span></button>
+              <button class="daily-button" id="start-daily" type="button">DAILY CHALLENGE <span>8 ROUNDS · 30 SEC →</span></button>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="radar-ring ring-one"></div><div class="radar-ring ring-two"></div><div class="radar-ring ring-three"></div>
+            <div class="radar-sweep"></div><div class="radar-dot dot-one"></div><div class="radar-dot dot-two"></div><div class="radar-dot dot-three"></div>
+            <div class="art-label label-top" id="radar-location"></div><div class="art-label label-bottom" id="radar-coordinates"></div>
+            <div class="art-pin">⌖</div>
+          </div>
+        </div>
+        <div class="home-stats"><span><strong id="catalog-count">24</strong> FLAGS IN THE CATALOG</span><span><strong>5,000</strong> MAXIMUM POINTS</span><span><strong>50 KM</strong> PERFECT RANGE</span></div>
+      </section>
+
+      <section class="screen" id="game-screen">
+        <div class="game-header">
+          <div><h2>Place your pin</h2></div>
+          <div class="round-counter"><span>ROUND</span><strong id="round-number">01</strong><i>/</i><span id="round-total">08</span></div>
+          <div class="timer" id="timer"><span>TIME</span><strong id="timer-value">90</strong><small>s</small></div>
+        </div>
+        <div class="game-layout">
+          <aside class="flag-panel">
+            <div class="panel-tag">MUNICIPAL FLAG <span id="flag-index">01</span></div>
+            <div class="flag-frame"><img id="flag-image" alt="Municipal flag"></div>
+            <p class="flag-hint">Where in the world does this flag fly?</p>
+            <div class="map-instruction"><span class="instruction-number">01</span><div><strong>DROP A PIN</strong><small>Click anywhere on the map to make your guess.</small></div></div>
+            <div class="map-instruction muted"><span class="instruction-number">02</span><div><strong>ACCEPT</strong><small>Lock in your location before time runs out.</small></div></div>
+            <button class="primary-button accept-button" id="accept-guess" disabled>ACCEPT GUESS <span>→</span></button>
+          </aside>
+          <div class="map-wrap"><div id="guess-map" class="map"></div><div class="map-badge">LIVE MAP <span class="live-dot"></span></div></div>
+        </div>
+      </section>
+
+      <section class="screen" id="round-screen">
+        <div class="result-header"><p class="eyebrow" id="result-eyebrow">ROUND COMPLETE</p><p id="result-subtitle">Your location compared with the real municipality.</p></div>
+        <div class="result-layout"><div class="result-map-wrap"><div id="result-map" class="map"></div></div><div class="score-panel"><div class="score-kicker">ROUND SCORE</div><div class="score-value" id="round-score">0</div><div class="score-unit">POINTS</div><div class="score-divider"></div><div class="metric"><span>DISTANCE</span><strong id="round-distance">—</strong></div><div class="metric"><span>REAL LOCATION</span><strong id="real-location">—</strong></div><div class="metric"><span>YOUR PIN</span><strong id="picked-location">No guess</strong></div><div class="source-note">FLAG SOURCE <a id="flag-source" href="#" target="_blank" rel="noreferrer">Wikimedia Commons ↗</a></div><button class="primary-button" id="continue-game">NEXT ROUND <span>→</span></button></div></div>
+      </section>
+
+      <section class="screen" id="results-screen">
+        <div class="results-heading"><p class="eyebrow">EXPEDITION COMPLETE</p><h2 id="results-title">World tour complete.</h2></div>
+        <div class="total-card"><div><span class="score-kicker">TOTAL SCORE</span><strong id="total-score">0</strong><small> / <span id="max-score">0</span> POINTS</small></div><div class="total-rank" aria-label="Your grade"><strong id="grade-mark">F</strong></div></div>
+        <div class="table-card"><div class="table-heading"><span>ROUND-BY-ROUND</span><span id="results-summary">0 ROUNDS</span></div><div class="results-table-wrap"><table><thead><tr><th>ROUND</th><th>MUNICIPALITY</th><th>LOCATION</th><th>DISTANCE</th><th>SCORE</th></tr></thead><tbody id="results-body"></tbody></table></div></div>
+        <button class="secondary-button" id="return-home">← RETURN TO HOME</button>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="credits-dialog"><button class="dialog-close" id="credits-close" aria-label="Close credits">×</button><p class="eyebrow">ABOUT THIS EXPEDITION</p><h2>Open data.<br>Open world.</h2><p>CityFlagGuessr is built with free, open tools and data.</p><ul><li><strong>Maps</strong><span>Leaflet · OpenStreetMap</span></li><li><strong>Flags</strong><span>Wikimedia Commons</span></li><li><strong>Municipality data</strong><span>Wikidata</span></li></ul><p class="dialog-foot">Please respect the usage policies and attribution requirements of each provider.</p></dialog>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="data/municipalities.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

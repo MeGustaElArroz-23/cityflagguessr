@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="-4800 -2400 9600 4800">
+	<title>Flag of Cornwall</title>
+	<defs>
+		<marker id="c" viewBox="-210 -210 420 420" markerWidth="420" markerHeight="420">
+			<circle r="205"/>
+		</marker>
+		<path id="s" d="m1400-1480c0 1464-240 2448-1400 3080-1160-632-1400-1616-1400-3080z"/>
+		<path id="f" d="m202 0c-77-33-118-93-122-167h275v-144h-132c0-74 48-213 166-184 85 21 96 122 61 180 278-51 251-313 156-409-77-77-160-88-225-65-146 53-250 233-250 478h-77c0-232 40-307 149-598 53-138 22-308-75-465-35-56-78-107-128-161-50 54-93 105-128 161-97 157-128 327-75 465 109 291 149 366 149 598h-77c0-245-104-425-250-478-65-23-148-12-225 65-95 96-122 358 156 409-35-58-24-159 61-180 118-29 166 110 166 184h-132v144h275c-4 74-45 134-122 167 0 270 404 270 404 0z"/>
+	</defs>
+	<path fill="#cc9914" d="m-4800-2400h2400l99 99h4602l99-99h2400v4800h-2400l-99-99h-4602l-99 99h-2400z"/>
+	<path d="m-2400-2400h4800v4800h-4800z"/>
+	<use fill="#cc9914" stroke="#cc9914" stroke-width="700" xlink:href="#s"/>
+	<use xlink:href="#f" transform="matrix(.175,0,0,.175,0,-1560)"/>
+	<use xlink:href="#f" transform="matrix(.2,.2,-.2,.2,1440,-1520)"/>
+	<use xlink:href="#f" transform="matrix(-.2,.2,.2,.2,-1440,-1520)"/>
+	<use xlink:href="#f" transform="matrix(.214,0,0,-.214,0,1668)"/>
+	<use xlink:href="#f" transform="matrix(.106,-.106,-.106,-.106,-1298,-1378)"/>
+	<use xlink:href="#f" transform="matrix(-.106,-.106,.106,-.106,1298,-1378)"/>
+	<use xlink:href="#f" transform="matrix(.15,0,0,.15,0,1492)"/>
+	<use xlink:href="#f" transform="matrix(.15,0,0,-.15,0,-1398)"/>
+	<use xlink:href="#f" transform="matrix(.049,-.142,.142,.049,1112,201)"/>
+	<use xlink:href="#f" transform="matrix(-.049,-.142,-.142,.049,-1112,201)"/>
+	<use xlink:href="#f" transform="matrix(-.057,.165,-.165,-.057,1265,254)"/>
+	<use xlink:href="#f" transform="matrix(.057,.165,.165,-.057,-1265,254)"/>
+	<use fill="none" stroke="#000"    stroke-width="160" xlink:href="#s"/>
+	<use fill="none" stroke="#cc9914" stroke-width="64" xlink:href="#s"/>
+	<path marker-mid="url(#c)" fill="none" d="m-962-833v0h481H0h481 481l-240 416h-481-482-481l241 417H0h481l-240 417h-482l241 416v0"/>
+</svg>

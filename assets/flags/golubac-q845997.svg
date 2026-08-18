@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="648"
+   height="648"
+   viewBox="0 0 648 648"
+   sodipodi:docname="Zastava_Golupca.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.61419753"
+     inkscape:cx="14.653266"
+     inkscape:cy="330.51256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <rect
+       style="fill:#ffdd18;fill-opacity:1;stroke-width:0.196355;stroke-linejoin:round"
+       id="rect2"
+       width="648"
+       height="478.40308"
+       x="0"
+       y="169.59694" />
+    <path
+       id="rect1"
+       style="fill:#21409a;stroke-width:0.19925;stroke-linejoin:round;fill-opacity:1"
+       d="M 0,0 H 648 V 172.98476 H 206 V 648 H 63.1 V 172.98476 H 0 Z"
+       sodipodi:nodetypes="ccccccccc" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round"
+       id="path2"
+       cx="133.29428"
+       cy="86.794563"
+       r="60" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round"
+       id="path2-3"
+       cx="323.90515"
+       cy="87.219124"
+       r="60" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round"
+       id="path2-1"
+       cx="514.51599"
+       cy="86.450867"
+       r="60" />
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 900 600" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#0051ba" width="900" height="600"/>
+<rect fill="#ffd700" width="900" height="450"/>
+<path fill="#fff" d="M 276,92 C 297,96 329,137 412,183 C 453,190 478,200 510,219 C 529,234 545,243 568,254 C 598,276 611,320 632,353 L 643,302 L 490,75 L 229,72 C 229,72 234,81 276,92z"/>
+<path fill="#333" d="M295,86 C 287,80 279,79 273,69 C 259,66 239,64 231,66 C 223,68 228,73 232,74 C 248,78 257,80 295,86z"/>
+<path fill="#000" d="M 334,44 C 417,49 457,58 518,81 C 548,78 569,58 607,73 C 581,81 562,98 578,123 C 607,158 648,219 651,322 C 663,331 670,341 673,358 C 664,355 656,353 647,352 C 639,369 644,389 643,407 C 625,387 621,357 629,330 C 602,239 557,212 507,184 C 470,169 440,164 406,135 C 411,174 423,175 434,193 C 440,203 432,209 424,202 C 394,175 377,155 365,104 C 360,93 350,88 340,85 C 320,84 312,85 297,87 C 284,79 278,83 270,70 C 270,70 280,40 334,44z"/>
+<g id="3" transform="translate(450, 525) scale(60)">
+<g id="2">
+<polygon id="1" fill="#ffd700" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#1" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#2" transform="rotate(72)"/>
+<use xlink:href="#2" transform="rotate(-72)"/>
+<use xlink:href="#2" transform="rotate(144)"/>
+<use xlink:href="#2" transform="rotate(-144)"/>
+</g>
+<use transform="translate(-165)" xlink:href="#3"/>
+<use transform="translate(165)" xlink:href="#3"/>
+<use transform="translate(-330)" xlink:href="#3"/>
+<use transform="translate(330)" xlink:href="#3"/>
+</svg>

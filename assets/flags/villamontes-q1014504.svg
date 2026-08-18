@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 500" width="750" height="500">
+	<title>Bandera_de_la_Provincia_Gran_Chaco</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #017f40 } 
+	</style>
+	<path id="white" class="s0" d="m0 0h750v500h-750z"/>
+	<path id="green" class="s1" d="m0 0h750v250h-750z"/>
+</svg>

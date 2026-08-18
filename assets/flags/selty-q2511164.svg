@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 900 600">
+<rect fill="#FFED00" width="900" height="600"/>
+<g transform="rotate(-45 450 360)">
+<path fill="#009846" d="M260 360h130v-80h-65v-55h65v-45h-130v-60h190v140h50v-50h50v50h50v50h-50v50h140v190h-60v-130h-45v65h-55v-65h-80v130h-60v-130h-130"/>
+ <polygon fill="#FFED00" points="450,360 450,310 500,310 500,360 "/>
+ </g>
+<path fill="#009846" d="M390 70h40v-40l20 20 20-20v40h40l-20 20 20 20h-40v40l-20-20-20 20v-40h-40l20-20z"/>
+<path fill="#FFED00" d="M397 73l17 17-17 17h36v36l17-17 17 17v-36h36l-17-17 17-17h-36v-36l-17 17-17-17v36z"/>
+<rect fill="#009846" y="480" width="900" height="120"/>
+</svg>

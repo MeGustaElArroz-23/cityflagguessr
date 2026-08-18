@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class="selected"/>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #088036;
+      }
+
+      .cls-2 {
+        fill: #daa621;
+      }
+
+      .cls-3 {
+        fill: #1e4294;
+      }
+
+      .cls-4 {
+        fill: #ffed00;
+      }
+    </style>
+  </defs>
+  
+  
+  
+  
+<g class="currentLayer" style=""><title>Layer 1</title><rect id="Verde" class="cls-1" y="400" width="900" height="200"/><rect id="Amarillo" class="cls-2" y="200" width="900" height="200"/><rect id="Azul" class="cls-3" width="900" height="199.99998474121094"/><g id="Sol">
+    <ellipse class="cls-4" cx="450" cy="300" rx="49.71773147583008" ry="50" id="svg_1"/>
+    <path class="cls-4" d="M527.5,255,501.54737,281.58A54.9333,54.9333,0,0,0,491.61372,264.32Z" id="svg_2"/>
+    <path class="cls-4" d="M527.5,345l-35.88628-9.32a54.933,54.933,0,0,0,9.93365-17.26Z" id="svg_3"/>
+    <path class="cls-4" d="M459.91369,354.1,450,390l-9.91369-35.9a55.04889,55.04889,0,0,0,19.82738,0Z" id="svg_4"/>
+    <path class="cls-4" d="M408.38628,335.68,372.5,345l25.95263-26.58A54.933,54.933,0,0,0,408.38628,335.68Z" id="svg_5"/>
+    <path class="cls-4" d="M408.38628,264.32A54.98161,54.98161,0,0,0,398.45263,281.59L372.5,255Z" id="svg_6"/>
+    <path class="cls-4" d="M459.91369,245.9a55.0531,55.0531,0,0,0-19.82738,0L450,210Z" id="svg_7"/>
+  </g></g></svg>

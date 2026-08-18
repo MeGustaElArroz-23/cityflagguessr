@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="667"
+   width="1100"
+   version="1.1"
+   id="svg2"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Bandera de Archidona (Ecuador).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.95052474"
+     inkscape:cx="551.80047"
+     inkscape:cy="390.83675"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0" />
+  <rect
+     height="334"
+     width="1100"
+     y="0"
+     x="0"
+     id="rect4"
+     fill="#0a7439"
+     style="fill:#00803d" />
+  <rect
+     height="167"
+     width="1100"
+     y="500"
+     x="1.648E-22"
+     fill="#e7121d"
+     id="rect6"
+     style="fill:#ce1126" />
+  <rect
+     height="166"
+     width="1100"
+     y="334"
+     x="0"
+     fill="#FFF"
+     id="rect8" />
+  <g
+     id="g3190"
+     transform="matrix(2.2288347,0,0,2.2370509,-119.93303,-750.11606)"
+     style="fill:#003893">
+    <path
+       id="path15"
+       style="fill:#003893"
+       d="m 97.499994,487.50002 8.199596,26.21421 27.46501,-0.30235 -22.39737,15.89892 8.7747,26.02734 -22.041938,-16.38813 -22.041942,16.38813 8.774705,-26.02734 -22.397374,-15.89892 27.465008,0.30235 8.199605,-26.21421 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path17"
+       style="fill:#003893"
+       d="m 232.49999,487.50002 8.1996,26.21421 27.46501,-0.30235 -22.39737,15.89892 8.7747,26.02734 -22.04194,-16.38813 -22.04194,16.38813 8.7747,-26.02734 -22.39737,-15.89892 27.46501,0.30235 8.1996,-26.21421 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path19"
+       style="fill:#003893"
+       d="m 367.49999,487.50002 8.1996,26.21421 27.46501,-0.30235 -22.39737,15.89892 8.7747,26.02734 -22.04194,-16.38813 -22.04194,16.38813 8.7747,-26.02734 -22.39737,-15.89892 27.46501,0.30235 8.1996,-26.21421 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path21"
+       style="fill:#003893"
+       d="m 502.49999,487.50002 8.1996,26.21421 27.46501,-0.30235 -22.39737,15.89892 8.7747,26.02734 -22.04194,-16.38813 -22.04194,16.38813 8.7747,-26.02734 -22.39737,-15.89892 27.46501,0.30235 8.1996,-26.21421 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

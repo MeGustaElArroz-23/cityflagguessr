@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="900" version="1.1" viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="m">
+   <circle cx="610.96" cy="429.24" r="196.02" style="fill:none;stroke-linejoin:round;stroke-miterlimit:5;stroke-width:1.5382;stroke:#000"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(700 845.71)">
+  <g transform="matrix(1.125 0 0 1.125 -2745.8 -946.98)">
+   <rect x="1818.5" y="90.012" width="800" height="800" style="fill-rule:evenodd;fill:#fff"/>
+   <path id="f" d="m1885.2 172.04 66.666-82.024-133.33-7.1e-5z" style="fill-rule:evenodd;fill:#ff0;stroke-linejoin:round;stroke-miterlimit:5;stroke-width:.68766"/>
+   <use transform="translate(666.67)" xlink:href="#f"/>
+   <use transform="translate(133.33)" xlink:href="#f"/>
+   <use transform="translate(266.67)" xlink:href="#f"/>
+   <use transform="translate(400)" xlink:href="#f"/>
+   <use transform="translate(533.33)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 666.67 980.02)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 133.33 980.02)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 266.67 980.02)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 400 980.02)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 533.33 980.02)" xlink:href="#f"/>
+   <use transform="matrix(1 0 0 -1 -3.3333e-6 980.02)" xlink:href="#f"/>
+   <rect x="1818.5" y="172.04" width="800" height="635.95" style="fill-rule:evenodd;fill:#00f"/>
+   <g transform="matrix(.93638 0 0 .93638 1643.5 90.712)">
+    <path d="m614.03 116.99-46.879 73.762c-12.908-26.858-67.801-3.9308-71.541-50.207-11.435 12.572-23.741 32.051-16.324 39.941 22.29 23.715-0.78773 29.004 1.2422 46.146l-85.309-19.01 19.01 85.307c-28.119-9.8644-50.723 45.163-86.09 15.086 0.80355 16.976 5.8757 39.45 16.699 39.785 32.53 1.0075 19.953 21.066 33.51 31.752l-73.764 46.881 73.762 46.879c-26.858 12.908-3.9308 67.801-50.207 71.541 12.572 11.435 32.051 23.741 39.941 16.324 23.715-22.29 29.004 0.78775 46.146-1.2422l-19.01 85.309 85.307-19.01c-9.8644 28.119 45.163 50.723 15.086 86.09 16.976-0.80357 39.45-5.8757 39.785-16.699 1.0074-32.53 21.066-19.953 31.752-33.51l46.881 73.762 46.879-73.762c12.908 26.858 67.801 3.9308 71.541 50.207 11.435-12.572 23.741-32.051 16.324-39.941-22.29-23.715 0.78772-29.004-1.2422-46.146l85.309 19.01-19.01-85.307c28.119 9.8644 50.723-45.163 86.09-15.086-0.80355-16.976-5.8757-39.45-16.699-39.785-32.53-1.0075-19.953-21.066-33.51-31.752l73.764-46.881-73.762-46.879c26.858-12.908 3.9308-67.801 50.207-71.541-12.572-11.435-32.051-23.741-39.941-16.324-23.715 22.29-29.004-0.78775-46.146 1.2422l19.01-85.309-85.307 19.01c9.8644-28.119-45.163-50.723-15.086-86.09-16.976 0.80357-39.45 5.8757-39.785 16.699-1.0074 32.53-21.066 19.953-31.752 33.51z" style="fill-rule:evenodd;fill:#ff0"/>
+    <circle cx="614.03" cy="426.43" r="221.39" style="fill-rule:evenodd;fill:#f00"/>
+    <g id="n" transform="translate(3.0677 -2.8097)" clip-path="url(#m)">
+     <g>
+      <path d="m610.96 238.83-83.571 84.774-33.974 17.95 3.3175 6.2806h228.45l3.3175-6.2806-33.974-17.95z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.81272;stroke:#000"/>
+      <use transform="matrix(-1 0 0 1 1221.9 -2.6433e-7)" xlink:href="#l"/>
+      <path d="m593.11 258.96h35.696" style="fill:none;stroke-linecap:square;stroke-miterlimit:5;stroke-width:2.3027;stroke:#000"/>
+      <path d="m571.69 280.63h80.659" style="fill:none;stroke-linecap:square;stroke-miterlimit:5;stroke-width:2.3027;stroke:#000"/>
+      <path d="m548.3 302.3h125.33" style="fill:none;stroke-linecap:square;stroke-miterlimit:5;stroke-width:2.3027;stroke:#000"/>
+      <path d="m526.69 323.97h168.55" style="fill:none;stroke-linecap:square;stroke-miterlimit:5;stroke-width:2.3027;stroke:#000"/>
+      <path id="l" d="m496.73 347.83v-7.6629m3.5696 7.6629v-9.549m3.5696 9.549v-11.435m3.5696 11.435v-13.321m3.5696 13.321v-15.207m3.5696 15.207v-17.094m3.5696 17.094v-18.98m3.5696 18.98v-20.866m3.5696 20.866v-22.752m3.5696 22.752v-25.359m3.5696 25.359v-28.996m3.5696 28.996v-32.633m3.5696 32.633v-36.269m3.5696 36.269v-39.906m3.5696 39.906v-43.543m3.5696 43.543v-47.18m3.5696 47.18v-50.817m3.5696 50.817v-54.454m3.5696 54.454v-58.09m3.5696 58.09v-61.727m3.5696 61.727v-65.364m3.5696 65.364v-69.001m3.5696 69.001v-72.638m3.5696 72.638v-76.275m3.5696 76.275v-79.912m3.5696 79.912v-83.548m3.5696 83.548v-87.185m3.5696 87.185v-90.822m3.5696 90.822v-94.459m3.5696 94.459v-98.096m3.5696 98.096v-101.73m3.5696 101.73v-105.37m3.5696 105.37v-109.01" style="fill:none;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.73265;stroke:#000"/>
+      <path d="m610.96 236.14-84.552 86.147-41.48 21.916 1.5186 2.8757 41.927-22.154 82.587-84.142 82.587 84.142 41.927 22.154 1.5185-2.8757-41.48-21.916z" style="color:#000000;fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.87918;stroke:#000"/>
+      <path id="h" d="m496.68 349.27v6.7197h228.55v-6.7197z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.73265;stroke:#000"/>
+      <circle id="e" cx="502.62" cy="352.64" r="3.0593" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.73265;stroke:#000"/>
+      <use id="g" transform="translate(216.68)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 6.7197)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 6.7197)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 6.7197)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 13.439)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 13.439)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 13.439)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 20.159)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 20.159)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 20.159)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 26.879)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 26.879)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 26.879)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 33.599)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 33.599)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 33.599)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 40.318)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 40.318)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 40.318)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 47.038)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 47.038)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 47.038)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 53.758)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 53.758)" xlink:href="#g"/>
+      <use transform="translate(-3.7744e-6 67.197)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 67.197)" xlink:href="#g"/>
+      <rect x="496.45" y="347.68" width="229.03" height="1.8986" style="fill-rule:evenodd"/>
+      <path id="c" d="m526.22 435.86v6.5028h169.47v-6.5028z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.54181;stroke:#000"/>
+      <circle id="d" cx="532.22" cy="439.12" r="2.8863" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.67726;stroke:#000"/>
+      <use id="a" transform="translate(186.89 86.478)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 6.5028)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 6.5028)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 6.5028)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 13.006)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 13.006)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 13.006)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 19.508)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 19.508)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 19.508)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 26.011)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 26.011)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 26.011)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 32.514)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 32.514)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 32.514)" xlink:href="#a"/>
+      <path d="m499.08 423.19 5.7594 3.3652 212.24 0.0238 5.7567-3.3678z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.54181;stroke:#000"/>
+      <path d="m523.93 431.92 2.2911 3.9472h169.47l2.2937-3.9022z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.54181;stroke:#000"/>
+      <path d="m512.5 426.54 6.1615 5.4234h184.6l6.1615-5.4022-196.93-0.0211z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.54181;stroke:#000"/>
+      <use transform="translate(-3.7744e-6 53.758)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 60.478)" xlink:href="#h"/>
+      <use transform="translate(-3.7744e-6 60.478)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 67.197)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 60.478)" xlink:href="#g"/>
+      <path id="i" d="m591.97 357.35c0.72763 0 1.3136 0.58599 1.3136 1.3136v0.82137h4.2929c0.69311 0 1.2507 0.55755 1.2507 1.2507v2.3182c0 0.6931-0.55755 1.2506-1.2507 1.2506h-13.646c-0.69311 0-1.2506-0.55754-1.2506-1.2506v-2.3182c0-0.69311 0.55753-1.2507 1.2506-1.2507h4.2929v-0.82137c0-0.72762 0.58598-1.3136 1.3136-1.3136z" style="fill-rule:evenodd"/>
+      <use transform="translate(40.417 -.3226)" xlink:href="#i"/>
+      <use transform="translate(83.328)" xlink:href="#i"/>
+      <use transform="translate(-42.911 -.3226)" xlink:href="#i"/>
+      <use transform="translate(29.594 60.561)" xlink:href="#e"/>
+      <use transform="translate(29.594 66.893)" xlink:href="#e"/>
+      <use transform="translate(62.637 60.561)" xlink:href="#e"/>
+      <use transform="translate(62.637 66.893)" xlink:href="#e"/>
+      <use transform="translate(153.84 60.561)" xlink:href="#e"/>
+      <use transform="translate(186.89 60.561)" xlink:href="#e"/>
+      <use transform="translate(186.89 66.893)" xlink:href="#e"/>
+      <use transform="translate(-3.7744e-6 38.964)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 38.964)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 38.964)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 45.467)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 45.467)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 45.467)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 51.969)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 51.969)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 51.969)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 58.472)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 58.472)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 58.472)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 64.975)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 64.975)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 64.975)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 71.425)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 71.425)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 71.425)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 77.928)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 77.928)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 77.928)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 84.43)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 84.43)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 84.43)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 90.933)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 90.933)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 90.933)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 97.436)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 97.436)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 97.436)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 103.89)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 103.89)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 103.89)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 110.39)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 110.39)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 110.39)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 116.89)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 116.89)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 116.89)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 123.39)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 123.39)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 123.39)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 129.9)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 129.9)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 129.9)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 136.35)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 136.35)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 136.35)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 142.85)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 142.85)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 142.85)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 149.35)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 149.35)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 149.35)" xlink:href="#a"/>
+      <use transform="translate(-3.7744e-6 155.86)" xlink:href="#c"/>
+      <use transform="translate(-3.7744e-6 155.86)" xlink:href="#d"/>
+      <use transform="translate(-3.7744e-6 155.86)" xlink:href="#a"/>
+      <path d="m580.93 601.85v-49.095" style="fill-rule:evenodd"/>
+      <use transform="translate(-17.401 112.53)" xlink:href="#i"/>
+      <use transform="translate(21.873 112.53)" xlink:href="#i"/>
+      <use transform="translate(61.147 112.53)" xlink:href="#i"/>
+      <rect x="569.19" y="503.69" width="8.3275" height="5.0975" style="fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+      <rect x="608.46" y="503.69" width="8.3275" height="5.0975" style="fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+      <rect x="647.73" y="503.69" width="8.3275" height="5.0975" style="fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+      <path d="m644.32 598.22v-53.968l-20.96-20.96h-21.469l-20.96 20.96v53.968z" style="fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.431;stroke:#000"/>
+      <path d="m610.82 523.29v74.928h3.5996v-74.928z" style="color:#000000;fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+      <path id="j" d="m600.48 553.88-2.0586 5.1328h-17.523v4.5801h5.5859l2.0586 5.1328 2.0586-5.1328h16.445l-4.5059-4.5801z" style="fill:none;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+      <use transform="matrix(1 0 0 -1 0 1148.5)" style="stroke:#000000" xlink:href="#j"/>
+      <use transform="rotate(180 612.62 574.26)" style="stroke:#000000" xlink:href="#j"/>
+      <use transform="matrix(-1 0 0 1 1225.2 0)" style="stroke:#000000" xlink:href="#j"/>
+      <rect x="605.06" y="575.97" width="4.2279" height="5.5333" ry="2.1131" style="fill:none;stroke-linejoin:round;stroke-miterlimit:5;stroke-width:.677;stroke:#000"/>
+      <rect x="615.96" y="575.95" width="4.2279" height="5.5333" ry="2.1131" style="fill:none;stroke-linejoin:round;stroke-miterlimit:5;stroke-width:.677;stroke:#000"/>
+      <path d="m601.14 521.49-22.014 22.016v54.713h3.5996v-53.223l19.904-19.904h19.979l19.904 19.904v53.223h3.5996v-54.713l-22.014-22.016z" style="color:#000000;fill-rule:evenodd;fill:#fff;stroke-miterlimit:5;stroke-width:.542;stroke:#000"/>
+     </g>
+     <g id="k" transform="matrix(1.4872 0 0 1.4872 248.89 144.65)">
+      <use transform="translate(-71.892)" xlink:href="#b"/>
+      <use transform="translate(-68.766)" xlink:href="#b"/>
+      <use transform="translate(-65.641)" xlink:href="#b"/>
+      <use transform="translate(-62.515)" xlink:href="#b"/>
+      <use transform="translate(-59.389)" xlink:href="#b"/>
+      <use transform="translate(-56.264)" xlink:href="#b"/>
+      <use transform="translate(-53.138)" xlink:href="#b"/>
+      <use transform="translate(-50.012)" xlink:href="#b"/>
+      <use transform="translate(-46.886)" xlink:href="#b"/>
+      <use transform="translate(-43.76)" xlink:href="#b"/>
+      <use transform="translate(-40.635)" xlink:href="#b"/>
+      <use transform="translate(-37.509)" xlink:href="#b"/>
+      <use transform="translate(-37.509)" xlink:href="#b"/>
+      <use transform="translate(-34.383)" xlink:href="#b"/>
+      <use transform="translate(-31.258)" xlink:href="#b"/>
+      <use transform="translate(-28.132)" xlink:href="#b"/>
+      <use transform="translate(-25.006)" xlink:href="#b"/>
+      <use transform="translate(-21.88)" xlink:href="#b"/>
+      <use transform="translate(-18.754)" xlink:href="#b"/>
+      <use transform="translate(-15.629)" xlink:href="#b"/>
+      <use transform="translate(-12.503)" xlink:href="#b"/>
+      <use transform="translate(-9.3772)" xlink:href="#b"/>
+      <use transform="translate(-6.2515)" xlink:href="#b"/>
+      <use transform="translate(-3.1258)" xlink:href="#b"/>
+      <rect x="134.53" y="205.41" width="2.9695" height="8.6622" ry="1.4848" style="fill-rule:evenodd"/>
+      <rect x="162.66" y="205.8" width="2.9695" height="8.6622" ry="1.4848" style="fill-rule:evenodd"/>
+      <path id="b" d="m182.9 201.13 1.5629-4.3383 1.5629 4.3383v91.386h-3.1258z" style="fill-rule:evenodd;fill:#fff;stroke-linecap:square;stroke-miterlimit:5;stroke-width:.54089;stroke:#000"/>
+     </g>
+     <use transform="matrix(-1 0 0 1 1221.9 0)" xlink:href="#k"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

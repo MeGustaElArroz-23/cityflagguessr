@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="450" height="300">
+<rect width="450" height="300" id="rect2989" style="fill:#f00"/>
+<rect width="225" height="100" x="225" y="200" id="rect2985" style="fill:#ff0"/>
+<use transform="translate(-225,-100)" id="use2986" xlink:href="#rect2985"/>
+<use transform="translate(0,-200)" id="use2991" xlink:href="#rect2985"/>
+</svg>

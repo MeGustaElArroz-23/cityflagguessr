@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Saarijärvi_lippu" width="1e3" height="600" version="1.1" viewBox="0 0 1e3 600" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g390" transform="matrix(3.33333 0 0 3.33333 0 0)">
+  <rect id="rect832" width="300" height="180" style="color:#000000;fill-rule:evenodd;fill:#ffffff"/>
+  <rect id="rect836" y="45" width="300" height="45" style="color:#000000;fill-rule:evenodd;fill:#d40000"/>
+  <rect id="rect838" y="90" width="300" height="45" style="color:#000000;fill-rule:evenodd;fill:#000000"/>
+  <rect id="rect852" x="160" y="86" width="140" height="8" style="color:#000000;fill-rule:evenodd;fill:#ffffff"/>
+ </g>
+ <g id="g620" transform="translate(60.4238 -817.56)">
+  <path id="path543" d="m7.07617 984.227-67.5 133.335 67.5 133.332 67.5-133.332z" style="fill-rule:evenodd;fill:#ffffff;paint-order:stroke markers fill;stroke-linecap:square;stroke-width:43.4195"/>
+  <path id="path543-0" d="m142.076 984.227-67.5 133.335 67.5 133.332 67.5-133.332z" style="fill-rule:evenodd;fill:#ffffff;paint-order:stroke markers fill;stroke-linecap:square;stroke-width:43.4195"/>
+  <path id="path543-4" d="m277.076 984.227-67.5 133.335 67.5 133.332 67.5-133.332z" style="fill-rule:evenodd;fill:#ffffff;paint-order:stroke markers fill;stroke-linecap:square;stroke-width:43.4195"/>
+  <path id="path543-2" d="m412.076 984.227-67.5 133.335 67.5 133.332 67.5-133.332z" style="fill-rule:evenodd;fill:#ffffff;paint-order:stroke markers fill;stroke-linecap:square;stroke-width:43.4195"/>
+ </g>
+</svg>

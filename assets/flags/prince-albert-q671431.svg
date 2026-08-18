@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg138" width="1e3" height="600" version="1.0" viewBox="0 0 1e3 600" xmlns="http://www.w3.org/2000/svg">
+ <path id="path132" d="m0 0h1e3v600h-1e3z" fill="#16a44a" stroke-width="2.77778"/>
+ <path id="path134" d="m300 0h400v600h-400" fill="#f3eb29" stroke-width="2.77778"/>
+ <g id="g908" transform="translate(429.11719,60)" fill="#16a44a" fill-rule="evenodd">
+  <g stroke-width="576">
+   <path id="path502" d="M 136,164.99986 0,165.00014 65.11719,0 Z"/>
+   <path id="path502-0" d="m 70.88281,330 -136,2.8e-4 L 0,165.00014 Z"/>
+   <path id="path502-3" d="M 206.88281,329.99972 70.88281,330 136,164.99986 Z"/>
+  </g>
+  <path id="path502-37" d="m128.21449 479.99975-110 2.5e-4 52.66832-150z" stroke-width="493.915"/>
+ </g>
+</svg>

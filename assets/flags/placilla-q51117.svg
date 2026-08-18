@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns="http://www.w3.org/2000/svg"
+ version="1.0"
+ x="0"
+ y="0"
+ width="2700"
+ height="1800"
+>
+
+<defs id="defs12" />
+
+<rect width="2700" height="1800" ry="0" x="0" y="0" style="fill:#000000" id="black" />
+
+<rect width="2700" height="600" x="0" y="1200" style="fill:#ffff00;fill-opacity:1" id="yellow" />
+
+<rect width="2700" height="600" x="0" y="0" style="fill:#0035ad" id="blue" />
+
+</svg>
